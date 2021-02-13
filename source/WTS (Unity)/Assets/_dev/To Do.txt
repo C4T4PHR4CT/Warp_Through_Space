@@ -1,0 +1,31 @@
+Sensor
+-damaged
+	-no weapon percent
+	-no repair percent
+	-no shield percent
+-basic
+-advanced
+	-enemy weapon percent
+	-enemy repair percent
+	-enemy shield percent
+-long ranged
+	-detect enemy at nearby locations
+
+Door
+-damaged
+	-doors don't close automatically
+-basic
+-fireproof
+
+Cockpit
+-damaged
+	-warp drive not chargeing (unless lvl 4)
+	-can't jump away (unless lvl 3)
+	-no evade (unless lvl 2)
+-basic
+-advanced
+	-auto pilot (70% evade)
+-emergency
+	-can jump away below 5hp withot pilot, to the previous location
+-off grid nav
+	-can jump away below 5hp even when the system is damaged, to the previous location
